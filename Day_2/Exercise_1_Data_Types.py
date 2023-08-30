@@ -3,8 +3,11 @@
 #Collecting Information
 
 print("Welcome To The Tip Calculator")
+
 Bill = float(input("What Was Your Total Bill? $"))
+
 Tip = int(input("What Pecentage Of Tip Would You Like To Give 10 12 15? "))
+
 NoOfPeoples = int(input("How Many People You Want To Split The Bill? "))
 
 #Calculating
